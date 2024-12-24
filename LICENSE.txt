@@ -1,4 +1,4 @@
 This initial data set is from Kaggle.com's Spaceship Titanic competition here:
 https://www.kaggle.com/competitions/spaceship-titanic/
 
-It's my understanding that the data is under creative commons non-commercial share alike. However, that's always subject to change. Please make sure if you use any of the files in this repo, that you credit them (and myself, if what you used is not the data set itself)
+It's my understanding that the data is under creative commons non-commercial share alike. However, it's possible that license may change. Please make sure if you use any of the files in this repo, that you credit them (and myself, if what you used is not the data set itself)
